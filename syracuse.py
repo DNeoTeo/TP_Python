@@ -10,4 +10,4 @@ def syracuse(N):
         n += 1
     return n
 
-print(syracuse(int(input("n ="))))
+print(syracuse(int(input("n = "))))
