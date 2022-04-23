@@ -1,0 +1,277 @@
+bot_tp_py#7614 | 2022-04-18 21:54:41,856 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-18 21:54:41,856 | DEBUG : This message should go to the log file
+bot_tp_py#7614 | 2022-04-18 21:54:41,857 | INFO : So should this
+bot_tp_py#7614 | 2022-04-18 21:54:41,857 | WARNING : And this, too
+bot_tp_py#7614 | 2022-04-18 21:54:41,858 | ERROR : And non-ASCII stuff, too, like Øresund and Malmö
+bot_tp_py#7614 | 2022-04-18 22:04:09,600 | INFO : Messages in note-bot of DexterNeo#3828 : tset
+bot_tp_py#7614 | 2022-04-18 22:20:42,013 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-18 22:20:42,014 | INFO : So should this
+bot_tp_py#7614 | 2022-04-18 22:20:42,015 | WARNING : And this, too
+bot_tp_py#7614 | 2022-04-18 22:20:42,015 | ERROR : And non-ASCII stuff, too, like Øresund and Malmö
+bot_tp_py#7614 | 2022-04-18 22:20:45,440 | INFO : Messages in note-bot of DexterNeo#3828 : !del
+bot_tp_py#7614 | 2022-04-18 22:23:11,757 | INFO : Messages in note-bot of DexterNeo#3828 : !del 3
+bot_tp_py#7614 | 2022-04-18 22:23:21,909 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-18 22:23:21,909 | INFO : So should this
+bot_tp_py#7614 | 2022-04-18 22:23:21,910 | WARNING : And this, too
+bot_tp_py#7614 | 2022-04-18 22:23:21,910 | ERROR : And non-ASCII stuff, too, like Øresund and Malmö
+bot_tp_py#7614 | 2022-04-18 22:23:37,503 | INFO : Messages in note-bot of DexterNeo#3828 : !del
+
+
+bot_tp_py#7614 | 2022-04-18 23:38:23,845 | INFO : Messages in note-bot of DexterNeo#3828 : !hello
+bot_tp_py#7614 | 2022-04-18 23:38:26,720 | INFO : Messages in note-bot of DexterNeo#3828 : !del
+bot_tp_py#7614 | 2022-04-18 23:38:29,473 | INFO : Messages in note-bot of DexterNeo#3828 : !help
+bot_tp_py#7614 | 2022-04-18 23:41:18,868 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-18 23:41:18,869 | DEBUG : This message should go to the log file
+bot_tp_py#7614 | 2022-04-18 23:41:18,869 | INFO : So should this
+bot_tp_py#7614 | 2022-04-18 23:41:18,870 | WARNING : And this, too
+bot_tp_py#7614 | 2022-04-18 23:41:18,870 | ERROR : And non-ASCII stuff, too, like Øresund and Malmö
+bot_tp_py#7614 | 2022-04-18 23:41:45,028 | INFO : Messages in note-bot of DexterNeo#3828 : !del
+bot_tp_py#7614 | 2022-04-18 23:41:45,538 | WARNING : Suppression de 1 messages : !del | <discord.embeds.Embed object at 0x000001AEB5E0F910> | 
+bot_tp_py#7614 | 2022-04-18 23:41:52,343 | INFO : Messages in note-bot of DexterNeo#3828 : !help
+bot_tp_py#7614 | 2022-04-18 23:41:52,511 | DEBUG : Messages in note-bot of bot_tp_py : 
+bot_tp_py#7614 | 2022-04-19 08:41:34,788 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 08:42:30,262 | INFO : Messages in note-bot of DexterNeo#3828 : !test
+bot_tp_py#7614 | 2022-04-19 08:42:33,149 | INFO : Messages in note-bot of DexterNeo#3828 : ping
+bot_tp_py#7614 | 2022-04-19 08:42:33,567 | DEBUG : Messages in note-bot of bot_tp_py : PONG
+bot_tp_py#7614 | 2022-04-19 09:23:44,981 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 09:23:59,830 | INFO : Messages in note-bot of DexterNeo#3828 : pong
+bot_tp_py#7614 | 2022-04-19 09:24:02,209 | INFO : Messages in note-bot of DexterNeo#3828 : !del
+bot_tp_py#7614 | 2022-04-19 09:24:03,119 | WARNING : Suppression de 1 messages : !del | pong | 
+bot_tp_py#7614 | 2022-04-19 09:24:06,864 | INFO : Messages in note-bot of DexterNeo#3828 : !test
+bot_tp_py#7614 | 2022-04-19 09:24:10,829 | INFO : Messages in note-bot of DexterNeo#3828 : !hello
+bot_tp_py#7614 | 2022-04-19 09:24:11,139 | DEBUG : Messages in note-bot of bot_tp_py : ...Hello World!
+bot_tp_py#7614 | 2022-04-19 09:29:17,330 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 09:29:27,198 | INFO : Messages in note-bot of DexterNeo#3828 : !test
+bot_tp_py#7614 | 2022-04-19 09:29:57,461 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 09:30:01,037 | INFO : Messages in note-bot of DexterNeo#3828 : !test
+bot_tp_py#7614 | 2022-04-19 09:30:21,227 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 09:30:24,880 | INFO : Messages in note-bot of DexterNeo#3828 : !test
+bot_tp_py#7614 | 2022-04-19 09:31:58,604 | INFO : Messages in note-bot of DexterNeo#3828 : !help
+bot_tp_py#7614 | 2022-04-19 09:31:58,931 | DEBUG : Messages in note-bot of bot_tp_py : 
+bot_tp_py#7614 | 2022-04-19 09:48:58,028 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 09:49:35,696 | INFO : Messages in note-bot of DexterNeo#3828 : REC localhost:8000 Yo8mHbm1zZXT5dFNqbSAwaoGBFbXcCMs 149.62.158.51
+bot_tp_py#7614 | 2022-04-19 09:49:35,710 | INFO : Messages in note-bot of DexterNeo#3828 : REC localhost:8000 Yo8mHbm1zZXT5dFNqbSAwaoGBFbXcCMs 149.62.158.51
+bot_tp_py#7614 | 2022-04-19 09:52:21,422 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 09:52:33,630 | INFO : Messages in note-bot of DexterNeo#3828 : REC
+bot_tp_py#7614 | 2022-04-19 09:52:33,637 | INFO : Messages in note-bot of DexterNeo#3828 : REC
+bot_tp_py#7614 | 2022-04-19 09:53:10,614 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 09:53:17,731 | INFO : Messages in note-bot of DexterNeo#3828 : REC
+bot_tp_py#7614 | 2022-04-19 09:53:17,743 | INFO : Messages in note-bot of DexterNeo#3828 : REC
+bot_tp_py#7614 | 2022-04-19 09:53:30,271 | INFO : Messages in note-bot of DexterNeo#3828 : !REC
+bot_tp_py#7614 | 2022-04-19 09:53:43,602 | INFO : Messages in note-bot of DexterNeo#3828 : !REC
+bot_tp_py#7614 | 2022-04-19 09:53:43,645 | INFO : Messages in note-bot of DexterNeo#3828 : !REC
+bot_tp_py#7614 | 2022-04-19 09:53:53,712 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 09:53:57,354 | INFO : Messages in note-bot of DexterNeo#3828 : !REC
+bot_tp_py#7614 | 2022-04-19 09:53:57,372 | INFO : Messages in note-bot of DexterNeo#3828 : !REC
+bot_tp_py#7614 | 2022-04-19 09:54:19,800 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 09:54:23,079 | INFO : Messages in note-bot of DexterNeo#3828 : !REC
+bot_tp_py#7614 | 2022-04-19 09:54:23,097 | INFO : Messages in note-bot of DexterNeo#3828 : !REC
+bot_tp_py#7614 | 2022-04-19 09:56:37,863 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 09:59:18,553 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 09:59:26,459 | INFO : Messages in note-bot of DexterNeo#3828 : !REC localhost:8000 Yo8mHbm1zZXT5dFNqbSAwaoGBFbXcCMs 149.62.158.51 None
+bot_tp_py#7614 | 2022-04-19 09:59:26,459 | INFO : Messages in note-bot of DexterNeo#3828 : !REC localhost:8000 Yo8mHbm1zZXT5dFNqbSAwaoGBFbXcCMs 149.62.158.51 None
+bot_tp_py#7614 | 2022-04-19 10:01:08,700 | INFO : Messages in note-bot of DexterNeo#3828 : !REC
+bot_tp_py#7614 | 2022-04-19 10:01:14,854 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 10:01:15,980 | INFO : Messages in note-bot of DexterNeo#3828 : !REC
+bot_tp_py#7614 | 2022-04-19 10:01:15,986 | INFO : Messages in note-bot of DexterNeo#3828 : !REC
+bot_tp_py#7614 | 2022-04-19 10:01:47,822 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 10:01:57,006 | INFO : Messages in note-bot of DexterNeo#3828 : !REC
+bot_tp_py#7614 | 2022-04-19 10:01:57,012 | INFO : Messages in note-bot of DexterNeo#3828 : !REC
+bot_tp_py#7614 | 2022-04-19 10:03:09,208 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 10:03:13,671 | INFO : Messages in note-bot of DexterNeo#3828 : !REC
+bot_tp_py#7614 | 2022-04-19 10:03:13,671 | INFO : Messages in note-bot of DexterNeo#3828 : !REC
+bot_tp_py#7614 | 2022-04-19 10:04:51,338 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 10:05:06,724 | INFO : Messages in note-bot of DexterNeo#3828 : !REC localhost:8000 Yo8mHbm1zZXT5dFNqbSAwaoGBFbXcCMs 149.62.158.51 None
+bot_tp_py#7614 | 2022-04-19 13:05:08,802 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 13:05:08,802 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 13:05:19,568 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 13:05:19,568 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 16:39:46,925 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 16:39:46,925 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 16:39:46,925 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 16:39:58,811 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 16:39:58,811 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 16:39:58,811 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 20:31:52,213 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 20:31:52,213 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 20:31:52,213 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-19 20:31:52,213 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 08:20:51,686 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 08:20:51,686 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 08:20:51,686 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 08:20:51,686 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 08:20:51,686 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 10:21:32,520 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 10:21:32,520 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 10:21:32,520 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 10:21:32,520 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 10:21:32,520 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 10:21:32,520 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 13:04:17,485 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 13:04:17,485 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 13:04:17,485 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 13:04:17,485 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 13:04:17,485 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 13:04:17,485 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 13:04:17,485 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 16:33:04,967 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 16:33:04,967 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 16:33:04,967 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 16:33:04,967 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 16:33:04,967 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 16:33:04,967 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 16:33:04,967 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 16:33:04,967 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 18:07:14,303 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 18:07:14,303 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 18:07:14,303 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 18:07:14,303 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 18:07:14,303 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 18:07:14,303 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 18:07:14,303 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 18:07:14,303 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 18:07:14,303 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 21:34:29,433 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 21:34:29,433 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 21:34:29,433 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 21:34:29,433 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 21:34:29,433 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 21:34:29,433 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 21:34:29,433 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 21:34:29,433 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 21:34:29,433 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 21:34:29,433 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 23:19:15,744 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 23:20:50,424 | INFO : Messages in note-bot of DexterNeo#3828 : !ping
+bot_tp_py#7614 | 2022-04-20 23:21:16,484 | INFO : Messages in note-bot of DexterNeo#3828 : !ping1
+bot_tp_py#7614 | 2022-04-20 23:21:21,456 | INFO : Messages in note-bot of DexterNeo#3828 : !test
+bot_tp_py#7614 | 2022-04-20 23:21:41,331 | INFO : Messages in note-bot of DexterNeo#3828 : !ping2
+bot_tp_py#7614 | 2022-04-20 23:22:08,060 | INFO : Messages in note-bot of DexterNeo#3828 : !hello
+bot_tp_py#7614 | 2022-04-20 23:22:08,268 | DEBUG : Messages in note-bot of bot_tp_py : ...Hello World!
+bot_tp_py#7614 | 2022-04-20 23:22:22,104 | INFO : Messages in note-bot of DexterNeo#3828 : !ping
+bot_tp_py#7614 | 2022-04-20 23:22:28,548 | INFO : Messages in note-bot of DexterNeo#3828 : !del
+bot_tp_py#7614 | 2022-04-20 23:22:29,142 | WARNING : Suppression de 1 messages : !del | !ping | 
+bot_tp_py#7614 | 2022-04-20 23:35:06,631 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 23:47:36,527 | INFO : Messages in note-bot of DexterNeo#3828 : !ping
+bot_tp_py#7614 | 2022-04-20 23:47:40,667 | INFO : Messages in note-bot of DexterNeo#3828 : !ping1
+bot_tp_py#7614 | 2022-04-20 23:47:45,456 | INFO : Messages in note-bot of DexterNeo#3828 : !ping2
+bot_tp_py#7614 | 2022-04-20 23:47:49,717 | INFO : Messages in note-bot of DexterNeo#3828 : !hello
+bot_tp_py#7614 | 2022-04-20 23:47:53,319 | INFO : Messages in note-bot of DexterNeo#3828 : !hello1
+bot_tp_py#7614 | 2022-04-20 23:47:53,751 | DEBUG : Messages in note-bot of bot_tp_py : ...Hello World!1
+bot_tp_py#7614 | 2022-04-20 23:48:32,842 | INFO : Messages in note-bot of DexterNeo#3828 : ping1
+bot_tp_py#7614 | 2022-04-20 23:48:33,059 | DEBUG : Messages in note-bot of bot_tp_py : PONG1
+bot_tp_py#7614 | 2022-04-20 23:49:11,002 | INFO : Messages in note-bot of DexterNeo#3828 : !ping2
+bot_tp_py#7614 | 2022-04-20 23:50:51,222 | INFO : Messages in note-bot of DexterNeo#3828 : !hello
+bot_tp_py#7614 | 2022-04-20 23:50:55,442 | INFO : Messages in note-bot of DexterNeo#3828 : .hello
+bot_tp_py#7614 | 2022-04-20 23:50:57,046 | INFO : Messages in note-bot of DexterNeo#3828 : hello
+bot_tp_py#7614 | 2022-04-20 23:53:14,368 | INFO : Messages in note-bot of DexterNeo#3828 : !load
+bot_tp_py#7614 | 2022-04-20 23:53:20,997 | INFO : Messages in note-bot of DexterNeo#3828 : !ping2
+bot_tp_py#7614 | 2022-04-20 23:53:32,872 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-20 23:53:37,279 | INFO : Messages in note-bot of DexterNeo#3828 : !ping2
+bot_tp_py#7614 | 2022-04-20 23:54:07,129 | INFO : Messages in note-bot of DexterNeo#3828 : !test
+bot_tp_py#7614 | 2022-04-20 23:54:10,487 | INFO : Messages in note-bot of DexterNeo#3828 : !test1
+bot_tp_py#7614 | 2022-04-20 23:54:11,949 | INFO : Messages in note-bot of DexterNeo#3828 : !test2
+bot_tp_py#7614 | 2022-04-21 08:43:58,684 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-21 08:44:36,494 | INFO : Messages in note-bot of DexterNeo#3828 : ping1
+bot_tp_py#7614 | 2022-04-21 08:44:36,727 | DEBUG : Messages in note-bot of bot_tp_py : PONG1
+bot_tp_py#7614 | 2022-04-21 08:44:44,181 | INFO : Messages in note-bot of DexterNeo#3828 : !hello1
+bot_tp_py#7614 | 2022-04-21 08:44:44,338 | DEBUG : Messages in note-bot of bot_tp_py : ...Hello World!1
+bot_tp_py#7614 | 2022-04-21 08:44:57,546 | INFO : Messages in note-bot of DexterNeo#3828 : !del1 2
+bot_tp_py#7614 | 2022-04-21 08:44:58,180 | WARNING : Suppression de 2 messages : !del1 2 | ...Hello World!1 | !hello1 | 
+bot_tp_py#7614 | 2022-04-21 08:45:07,752 | INFO : Messages in note-bot of DexterNeo#3828 : !ping
+bot_tp_py#7614 | 2022-04-21 08:45:12,693 | INFO : Messages in note-bot of DexterNeo#3828 : !hello
+bot_tp_py#7614 | 2022-04-21 08:45:18,322 | INFO : Messages in note-bot of DexterNeo#3828 : !del
+bot_tp_py#7614 | 2022-04-21 08:46:02,672 | INFO : Messages in note-bot of DexterNeo#3828 : !ping2
+bot_tp_py#7614 | 2022-04-21 09:30:38,225 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-21 09:30:50,091 | INFO : Messages in note-bot of DexterNeo#3828 : !ping
+bot_tp_py#7614 | 2022-04-21 09:31:11,215 | INFO : Messages in note-bot of DexterNeo#3828 : !try_load_2
+bot_tp_py#7614 | 2022-04-21 09:34:35,631 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-21 09:35:12,529 | INFO : Messages in note-bot of DexterNeo#3828 : !ping
+bot_tp_py#7614 | 2022-04-21 09:35:16,580 | INFO : Messages in note-bot of DexterNeo#3828 : !try_load_2
+bot_tp_py#7614 | 2022-04-21 09:37:12,797 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-21 09:37:24,280 | INFO : Messages in note-bot of DexterNeo#3828 : !ping
+bot_tp_py#7614 | 2022-04-21 09:37:39,760 | INFO : Messages in note-bot of DexterNeo#3828 : !try_load_2
+bot_tp_py#7614 | 2022-04-21 12:05:46,439 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-21 12:06:07,824 | INFO : Messages in note-bot of DexterNeo#3828 : !help
+bot_tp_py#7614 | 2022-04-21 12:06:08,031 | DEBUG : Messages in note-bot of bot_tp_py : ```
+Example:
+  ping2  
+Messages:
+  del    
+  hello  
+  ping   
+  test   
+​No Category:
+  help   Shows this message
+  load   
+  reload 
+  unload 
+
+Type !help command for more info on a command.
+You can also type !help category for more info on a category.
+```
+bot_tp_py#7614 | 2022-04-21 12:07:16,287 | INFO : Messages in note-bot of DexterNeo#3828 : !ping2
+bot_tp_py#7614 | 2022-04-21 12:07:16,480 | DEBUG : Messages in note-bot of bot_tp_py : Pong2lqzdzqd !
+bot_tp_py#7614 | 2022-04-21 12:07:20,797 | INFO : Messages in note-bot of DexterNeo#3828 : ping1
+bot_tp_py#7614 | 2022-04-21 12:07:21,006 | DEBUG : Messages in note-bot of bot_tp_py : PONG1
+bot_tp_py#7614 | 2022-04-21 12:08:51,630 | INFO : Messages in note-bot of DexterNeo#3828 : !help
+bot_tp_py#7614 | 2022-04-21 12:08:51,813 | DEBUG : Messages in note-bot of bot_tp_py : ```
+Example:
+  ping2  
+Messages:
+  del    
+  hello  
+  ping   
+  test   
+​No Category:
+  help   Shows this message
+  load   
+  reload 
+  unload 
+
+Type !help command for more info on a command.
+You can also type !help category for more info on a category.
+```
+bot_tp_py#7614 | 2022-04-21 12:08:56,925 | INFO : Messages in note-bot of DexterNeo#3828 : !reload
+bot_tp_py#7614 | 2022-04-21 12:09:05,918 | INFO : Messages in note-bot of DexterNeo#3828 : !help
+bot_tp_py#7614 | 2022-04-21 12:09:06,072 | DEBUG : Messages in note-bot of bot_tp_py : ```
+Example:
+  ping2  
+Messages:
+  del    
+  hello  
+  ping   
+  test   
+​No Category:
+  help   Shows this message
+  load   
+  reload 
+  unload 
+
+Type !help command for more info on a command.
+You can also type !help category for more info on a category.
+```
+bot_tp_py#7614 | 2022-04-21 12:09:33,646 | INFO : Messages in note-bot of DexterNeo#3828 : !ping2
+bot_tp_py#7614 | 2022-04-21 12:09:33,861 | DEBUG : Messages in note-bot of bot_tp_py : Pong2lqzdzqd !
+bot_tp_py#7614 | 2022-04-21 12:09:47,144 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-21 12:09:51,179 | INFO : Messages in note-bot of DexterNeo#3828 : !help
+bot_tp_py#7614 | 2022-04-21 12:09:51,411 | DEBUG : Messages in note-bot of bot_tp_py : ```
+Messages:
+  del    
+  hello  
+  ping   
+  test   
+​No Category:
+  help   Shows this message
+  load   
+  reload 
+  unload 
+
+Type !help command for more info on a command.
+You can also type !help category for more info on a category.
+```
+bot_tp_py#7614 | 2022-04-21 12:34:51,692 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-21 12:34:51,692 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-21 13:11:50,073 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-21 13:11:50,073 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !
+bot_tp_py#7614 | 2022-04-21 13:11:50,073 | INFO : bot_tp_py#7614 has connected to Discord! cmd_pref = !

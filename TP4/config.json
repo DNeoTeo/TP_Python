@@ -1,0 +1,9 @@
+[ 
+    {
+        "TOKEN" : "OTY0NDIxMzIzOTQ4NDMzNTA4.YlkZWQ.NvZQDg4BIpe0J8y6qq940Snx0Ug",
+        "log_file" : "All_logs.log",
+        "bot_log" : "bot_log.log",
+        "formatter" : "%(name)s | %(asctime)s | %(levelname)s : %(message)s",
+        "level" : "10"
+    }
+]
