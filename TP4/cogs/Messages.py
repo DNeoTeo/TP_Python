@@ -15,11 +15,6 @@ class Messages(commands.Cog):
     async def on_ready(self):
         self.bot.log.loginfo(f"{self.bot.user} has connected to Discord! cmd_pref = {self.bot.command_prefix}")
 
-        #self.log.debug('This message should go to the log file')
-        #self.log.info('So should this')
-        #self.log.warning('And this, too')
-        #self.log.error('And non-ASCII stuff, too, like Øresund and Malmö')
-
     @commands.Cog.listener()
     async def on_member_join(self, member : discord.Member):
         note_bot_channel = self.bot.get_channel(964418174265225297)

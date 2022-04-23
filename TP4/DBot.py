@@ -22,6 +22,5 @@ class MyCmdBot(commands.Bot):
         handler_f.setFormatter(logging.Formatter(format))
         logger.addHandler(handler_f)
 
-    #def send_bot_help():
 
 

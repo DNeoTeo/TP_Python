@@ -2,9 +2,11 @@ from discord.ext import commands
 import discord
 import logging
 
+from DBot import MyCmdBot
+
 
 class Logs (logging.Logger):
-    def __init__(self, bot, level: int) -> None:
+    def __init__(self, bot : MyCmdBot, level: int) -> None:
         super().__init__(bot.user, level)
 
     def addHandlerConsole(bot :commands.Bot, level :int, format :str):
